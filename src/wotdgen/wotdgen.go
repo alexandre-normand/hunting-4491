@@ -16,7 +16,7 @@ import (
 )
 
 const (
-	DICTIONARY = "./words.txt"
+	DICTIONARY = "./dictionary.txt"
 )
 
 func main() {
